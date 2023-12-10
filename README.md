@@ -43,6 +43,23 @@ Post layout results are as follows :
 ![output2](https://github.com/xchinmaydh/3-bit-Flash-ADC/assets/153248450/c6e706fc-b714-413f-8dc1-3104f281df1d)
 ![output_post](https://github.com/xchinmaydh/3-bit-Flash-ADC/assets/153248450/eeba7559-c394-4fa8-8ad3-205e4ad9ae31)
 
+![power_post](https://github.com/xchinmaydh/3-bit-Flash-ADC/assets/153248450/e5294c45-a5b1-4b9f-aac3-2bda9d21f3e4)
+
+1. Delay = 43.7 nS
+2. Power = 27.44 uW
+3. Offset Error = -0.42 LSB
+4. Gain Error = -0.38 LSB
+5. INL = 0.165 LSB
+6. DNL = 0.123 LSB
+7. Area = 0.0039 mm^2
+
+
+# Publication
+
+The work is published in 7th CSITSS Conference held in R V College of Engineering, in November 2023.
+https://doi.org/10.1109/CSITSS60515.2023.10334140
+
+
 
 
 
